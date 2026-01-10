@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+*.tsv
+*.gz
+plots/
+results/
